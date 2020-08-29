@@ -1,0 +1,13 @@
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\bin\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.exe
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\bin\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.deps.json
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\bin\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.runtimeconfig.json
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\bin\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.runtimeconfig.dev.json
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\bin\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.dll
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\bin\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.pdb
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\obj\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.csprojAssemblyReference.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\obj\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.csproj.CoreCompileInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\obj\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.AssemblyInfoInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\obj\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.AssemblyInfo.cs
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\obj\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.dll
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\obj\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.pdb
+C:\Users\gisel\Desktop\Projeto C#\PropostoMetodosAbstratos1\PropostoMetodosAbstratos1\obj\Debug\netcoreapp3.1\PropostoMetodosAbstratos1.genruntimeconfig.cache
